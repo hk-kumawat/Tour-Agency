@@ -20,8 +20,8 @@ The Tour and Travel Agency website is a comprehensive online platform designed t
 3. Hotel Finder: A powerful search engine to find suitable hotels based on location, amenities, and price.
 4. Services: Additional services like car rentals, airport transfers, and travel insurance can be easily booked through the platform.
 5. About Us: Information about the travel agency, its mission, vision, and team of experienced travel experts.
-6.  Blog: A blog section featuring travel tips, destination guides, and industry news to keep users informed.
-7.Contact Us: Multiple channels for customers to reach out for inquiries or assistance.
+6. Blog: A blog section featuring travel tips, destination guides, and industry news to keep users informed.
+7. Contact Us: Multiple channels for customers to reach out for inquiries or assistance.
 
 
 
