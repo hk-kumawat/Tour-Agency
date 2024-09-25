@@ -30,10 +30,11 @@ The Tour and Travel Agency website is a comprehensive online platform designed t
 
 ![Screenshot 2024-09-25 230046](https://github.com/user-attachments/assets/60fa4dbd-cab4-4733-bde4-1eb5409456d3)
 ![Screenshot 2024-09-25 230400](https://github.com/user-attachments/assets/6cb0d33a-5591-4dc4-bc92-46dd4f41c36b)
-![Uploading Screenshot 2024-09![Screenshot 2024-09-25 230459](https://github.com/user-attachments/assets/cd70ec59-36b5-4954-ac16-b73a81f8c923)
--25 230400.png…]()
-![Screenshot 2024-09-25 230248](https://github.com/user-attachments/assets/4f16ae7d-7f03-4280-aa67-8714234da56b)
-![Screenshot 2024-09-25 230626](https://github.com/user-attachments/assets/6250a281-87c7-482a-9c8c-71b50aef1c12)
-![Screenshot 2024-09-25 230830](https://github.com/user-attachments/assets/21e02ba8-6ff8-4af7-b906-786ccb49636b)
-![Screenshot 2024-09-25 230542](https://github.com/user-attachments/assets/e9129391-4ca8-4686-9d42-5b9b5ca4ec2f)
-![Screenshot 2024-09-25 230719](https://github.com/user-attachments/assets/dc840c07-efca-4fa3-a8ba-dc048fc3648f)
+![Screenshot 2024-09-25 230248](https://github.com/user-attachments/assets/37f7f381-5da8-4d63-b785-e871186d22ad)
+![Screenshot 2024-09-25 230626](https://github.com/user-attachments/assets/401639c9-e98e-455e-adfd-dc9888d23d68)
+![Screenshot 2024-09-25 230542](https://github.com/user-attachments/assets/6f2c27b6-9b49-424f-aa7a-7f21ab5b5de8)
+![Screenshot 2024-09-25 230459](https://github.com/user-attachments/assets/bb6d602a-ea4e-4464-ba53-647b4f1f5627)
+![Screenshot 2024-09-25 230830](https://github.com/user-attachments/assets/e281dda1-1762-4b8c-8455-8c2c34a3638d)
+![Screenshot 2024-09-25 230400](https://github.com/user-attachments/assets/f0c31b13-93a5-4b06-9db0-5a962959cdb7)
+![Screenshot 2024-09-25 230719](https://github.com/user-attachments/assets/473da975-d204-4a18-b05d-79bf8a9b3ab3)
+
