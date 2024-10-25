@@ -7,7 +7,7 @@
 
 - [Overview](#overview)
 - [Key Features](#key-features)
-- [Output](#output)
+- [Output Screenshots](#output-screenshots)
 - [Conclusion](#conclusion)
 
 <br>  
@@ -35,7 +35,7 @@ The Tour and Travel Agency website is a comprehensive online platform designed t
 
 <br>
 
-## Output
+## Output Screenshots:
 
 ![Screenshot 2024-09-25 230046](https://github.com/user-attachments/assets/60fa4dbd-cab4-4733-bde4-1eb5409456d3)
 ##
